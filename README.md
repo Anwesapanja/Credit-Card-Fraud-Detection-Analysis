@@ -166,3 +166,12 @@ This page highlights fraud patterns across merchants and geographic regions.
 ## Conclusion  
 
 This project demonstrates how data analysis and visualization can help detect fraud patterns and support better financial decision-making.
+
+---
+##  Future Enhancements
+- Implement Machine Learning models (Logistic Regression, Random Forest, XGBoost)  
+- Build a real-time fraud detection system  
+- Deploy the project as a web application  
+- Integrate anomaly detection techniques  
+- Add automated alert system for suspicious transactions  
+- Deploy on cloud platforms (AWS / GCP) 
