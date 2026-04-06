@@ -80,16 +80,6 @@ Credit-Card-Fraud-Detection-Analysis
 
 ---
 
-## Key Insights  
-
-- Fraud is highly concentrated in shopping_pos and misc_pos categories  
-- Some merchants are repeatedly associated with fraud  
-- Fraud is more common among middle-aged customers  
-- High-value transactions have a higher chance of being fraudulent  
-- Certain locations show higher fraud activity  
-
----
-
 ## Financial Overview  
 
 - Total transaction value exceeds 12M+  
@@ -105,9 +95,60 @@ Credit-Card-Fraud-Detection-Analysis
 
 ---
 
-## Dashboard Preview  
+## Dashboard Overview  
 
-_Add screenshots from the `images` folder here_
+### Page 1: Transaction & Fraud Summary  
+
+![Page 1 Dashboard](images/Screenshot_2026-04-07_000129.png)
+
+**Description:**  
+This page provides a high-level overview of all transactions and fraud activity.  
+
+**Key Highlights:**  
+- Total transactions and total transaction amount  
+- Overall fraud vs non-fraud comparison  
+- Category-wise transaction distribution  
+- Quick insights into fraud concentration  
+
+---
+
+### Page 2: Customer Demographics Analysis  
+
+![Page 2 Dashboard](images/Screenshot_2026-04-07_000220.png)
+
+**Description:**  
+This page focuses on customer behavior and demographic insights related to fraud.  
+
+**Key Highlights:**  
+- Fraud distribution by age group  
+- Gender-based fraud comparison  
+- Identification of high-risk customer segments  
+- Behavioral trends across different demographics  
+
+---
+
+### Page 3: Merchant & Location Analysis  
+
+![Page 3 Dashboard](images/Screenshot_2026-04-07_000249.png)
+
+**Description:**  
+This page highlights fraud patterns across merchants and geographic regions.  
+
+**Key Highlights:**  
+- High-risk merchants associated with fraud  
+- City-wise fraud distribution  
+- Detection of fraud hotspots  
+- Regional trends in fraudulent transactions  
+
+---
+
+## Workflow  
+1. Data Collection  
+2. Data Cleaning and Preprocessing  
+3. Feature Engineering  
+4. Exploratory Data Analysis (EDA)  
+5. Data Visualization using Looker Studio  
+6. Insights and Reporting  
 
 ---
 
