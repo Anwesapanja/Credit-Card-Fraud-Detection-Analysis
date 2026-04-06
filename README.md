@@ -99,7 +99,8 @@ Credit-Card-Fraud-Detection-Analysis
 
 ### Page 1: Transaction & Fraud Summary  
 
-<img src="images/page1.png" width="100%">
+<img src="images/page1.png" alt="Page 1" width="100%">
+
 
 **Description:**  
 This page provides a high-level overview of all transactions and fraud activity.  
