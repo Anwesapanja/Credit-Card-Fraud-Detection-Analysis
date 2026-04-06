@@ -115,7 +115,7 @@ This page provides a high-level overview of all transactions and fraud activity.
 
 ### Page 2: Customer Demographics Analysis  
 
-<img src="Dashboard/Screenshot%202026-04-07%20000220.png" width="100%">
+<img src="Dashboard/Screenshot%202026-04-07%20000249.png" width="100%">
 
 
 **Description:**  
@@ -131,7 +131,7 @@ This page focuses on customer behavior and demographic insights related to fraud
 
 ### Page 3: Merchant & Location Analysis  
 
-<img src="Dashboard/Screenshot%202026-04-07%20000249.png" width="100%">
+<img src="Dashboard/Screenshot%202026-04-07%20000220.png" width="100%">
 
 
 **Description:**  
