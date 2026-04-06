@@ -99,7 +99,7 @@ Credit-Card-Fraud-Detection-Analysis
 
 ### Page 1: Transaction & Fraud Summary  
 
-<img src="images/page1.png" alt="Page 1" width="100%">
+<img src="https://raw.githubusercontent.com/Anwesapanja/Credit-Card-Fraud-Detection-Analysis/main/images/page1.png" width="100%">
 
 
 **Description:**  
