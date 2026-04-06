@@ -99,7 +99,7 @@ Credit-Card-Fraud-Detection-Analysis
 
 ### Page 1: Transaction & Fraud Summary  
 
-<img src="https://raw.githubusercontent.com/Anwesapanja/Credit-Card-Fraud-Detection-Analysis/main/images/page1.png" width="100%">
+<img src="Dashboard/Screenshot%202026-04-07%20000129.png" width="100%">
 
 
 **Description:**  
@@ -115,7 +115,8 @@ This page provides a high-level overview of all transactions and fraud activity.
 
 ### Page 2: Customer Demographics Analysis  
 
-![Page 2](images/Screenshot_2026-04-07_000220.png)
+<img src="Dashboard/Screenshot%202026-04-07%20000220.png" width="100%">
+
 
 **Description:**  
 This page focuses on customer behavior and demographic insights related to fraud.  
@@ -130,7 +131,8 @@ This page focuses on customer behavior and demographic insights related to fraud
 
 ### Page 3: Merchant & Location Analysis  
 
-![Page 3](images/Screenshot_2026-04-07_000249.png)
+<img src="Dashboard/Screenshot%202026-04-07%20000249.png" width="100%">
+
 
 **Description:**  
 This page highlights fraud patterns across merchants and geographic regions.  
